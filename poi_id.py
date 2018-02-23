@@ -132,8 +132,8 @@ labels, features = targetFeatureSplit(data)
 #scaler = RobustScaler()
 #features = scaler.fit_transform(features)
 
-# Select 10 best features using k-best
-k_best = SelectKBest(k=11)
+# Select 7 best features using k-best
+k_best = SelectKBest(k=8)
 k_best.fit(features, labels)
 
 #creating dictionary with feature names and scores
