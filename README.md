@@ -6,7 +6,7 @@
 
 In 2000, Enron was one of the largest companies in the United States. By 2002, it had collapsed into bankruptcy due to widespread corporate fraud. As a result of the ensuing trial, many of the employees emails had their emails and financial information released. 
 
-##### Full project code is the poi_id.py file, while the write-up is the EnronFraudClassifier jupyter notebook/html/markdown files.
+##### Full project code is the poi_id.py file, while the write-up is the EnronFraudDetection_FINAL jupyter notebook/html/markdown files.
 
 ### Project Goal
 
