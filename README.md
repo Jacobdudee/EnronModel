@@ -22,7 +22,7 @@ This project was completed as part of my Data Analyst Nanodegree from Udacity.
 
 ## Results 
 #### Best Model
-The best results came from using an AdaBoost Classifier, with a learning rate of 1 and 35 estimators:
+The best results came from using an AdaBoost Classifier using 10 features, with a learning rate of 1 and 35 estimators:
 
     AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
               n_estimators=35, random_state=None)
@@ -30,5 +30,8 @@ The best results came from using an AdaBoost Classifier, with a learning rate of
     Accuracy: 0.88040	Precision: 0.56527	Recall: 0.44600	F1: 0.49860	F2: 0.46565
 	Total predictions: 15000	True positives:  892	False positives:  686	False negatives: 1108	True negatives: 12314
   
+#### Variables Used
+	['deferral_payments', 'total_payments', 'loan_advances', 'restricted_stock_deferred', 'deferred_income', 'expenses', 'exercised_stock_options', 'long_term_incentive', 'from_this_person_to_poi', 'perc_from_poi'])
+
 ## Conlcusion
 An AdaBoost Classifier was built that was able to predict a person of interest in the Enron dataset, with 88% accuracy, 56.5% precision, and 44.6% recall. 
