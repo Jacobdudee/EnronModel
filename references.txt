@@ -1,0 +1,21 @@
+## References
+
+Scikit learn documentation:
+http://scikit-learn.org/
+
+How to create a custom legend in matplotlib
+https://matplotlib.org/users/legend_guide.html
+
+Ideas for tuning a decision tree:
+http://chrisstrelioff.ws/sandbox/2015/06/25/decision_trees_in_python_again_cross_validation.html
+
+Some tips on how to tune gridsearch for scores from:
+https://www.kaggle.com/kevinarvai/fine-tuning-a-classifier-in-scikit-learn
+
+Documentary on Enron which provided backstory and useful information:
+https://en.wikipedia.org/wiki/Enron:_The_Smartest_Guys_in_the_Room
+
+Udacity's Data Analyst nanodegree program for supporting code and lessons:
+https://www.udacity.com/course/data-analyst-nanodegree--nd002
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
