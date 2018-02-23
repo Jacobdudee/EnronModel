@@ -35,3 +35,5 @@ The best results came from using an AdaBoost Classifier using 10 features, with 
 
 ## Conlcusion
 An AdaBoost Classifier was built that was able to predict a person of interest in the Enron dataset, with 88% accuracy, 56.5% precision, and 44.6% recall. 
+
+We were able to predict whether an employee was a person of interest to an extent. The model was right 88% of the time, but when it guessed someone was a person of interest, it was right slightly less than half the time (45%).
